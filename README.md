@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reinis</h1>
 <h3 align="center">A passionate Software Engineer from Latvia</h3>
 
-I love to build delightful Web projects. Other than that, I dabble in subjects such as machine learning, data science, image and audio analysis, computer graphics, cybersecurity and human-centered design. My dream is to help build a more awesome world for tomorrow.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reiniss" alt="reiniss" /></a> </p>
+Versatile Senior Software Engineer with 7+ years of experience building delightful, reliable, scalable, and user-focused products across backend, frontend, AI/ML, and cloud infrastructure. Experienced in leading end-to-end feature development, architecting distributed systems, and delivering production-ready AI capabilities in fast-paced, product-driven environments. Strong collaborator with a track record of partnering with product, design, and cross-functional teams to ship features that improve user experience, developer velocity, and business outcomes.
 
 - 👨‍💻 My portfolio with my projects is available at [https://reiniss.com](https://reiniss.com)
-
-- 📝 I write some blog articles on [https://reiniss.com/blog/](https://reiniss.com/blog/)
 
 - 📄 Learn more about my experience from my resume at [https://reiniss.com/ReinisSestakovskisResume.pdf](https://reiniss.com/ReinisSestakovskisResume.pdf)
 
